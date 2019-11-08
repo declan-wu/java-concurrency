@@ -40,4 +40,8 @@ dynamic priority = static priority + bonus
   - secrutiy and stability are of higher importance 
   - tasks are unrelated to each other. 
 
-
+### How to implement thread in Java
+- Thread class: implement all functionalities related to thread
+- two ways to run code in new thread
+  - one way is to implement Runnable interface, and pass it to new Thread Object
+  - the other is to extend Thread class, and create an object of that class
