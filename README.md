@@ -45,3 +45,5 @@ dynamic priority = static priority + bonus
 - two ways to run code in new thread
   - one way is to implement Runnable interface, and pass it to new Thread Object
   - the other is to extend Thread class, and create an object of that class
+
+### Java
